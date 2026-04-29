@@ -23,17 +23,6 @@ This document outlines the findings from a hands-on security assessment conducte
 
 ---
 
-### 🛠️ Environment & Tools Used
-
-| **Component** | **Details** |
-|---------------|-------------|
-| Target App | OWASP Juice Shop (running via Docker) |
-| OS | Kali Linux |
-| Browser | Firefox with Developer Tools |
-| Token Decoder | jwt.io |
-
----
-
 ### 🔐 Recommended Security Controls
 
 Based on the test results, the following practices should be adopted:
